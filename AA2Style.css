@@ -1,0 +1,80 @@
+body {
+	background-color: #121212;
+}
+
+h1 {
+background-color: lightblue;
+text-align: center;
+}
+
+p {
+text-align: center;
+font-size: 60px;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+	background-color: lightgreen;
+}
+
+.p2 {
+	font-size: 50px;
+	text-align: center;
+}
+
+.p2-1 {
+	color: white;
+}
+
+.p3 {
+	font-size: 40px;
+	text-align: center;
+}
+
+.p4 {
+	font-size: 20px;
+	text-align: center;
+}
+
+.solid {
+	border-style: solid;
+	border-color: #121212;
+	background-color: lightblue;
+	}
+	
+.shop1 {
+	border-style: solid;
+	border-color: #121212;
+	background-color: lightblue;
+	}
+	
+.Ascended {
+	border-style: solid;
+	border-color: #121212;
+	background-color: #C5B4E3;
+	}
